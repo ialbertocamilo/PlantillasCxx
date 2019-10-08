@@ -26,6 +26,8 @@ project(Qtc LANGUAGES CXX)
 
   add_executable(Qtc main.cpp mainwindow.cpp)
 
+  INSTALL_
+
   # The Qt5Widgets_LIBRARIES variable also includes QtGui and QtCore
   target_link_libraries(Qtc ${Qt5Widgets_LIBRARIES})
   set_target_properties(Qtc PROPERTIES COMPILE_OPTIONS "-m64" LINK_FLAGS "-m64")
