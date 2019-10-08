@@ -1,0 +1,4 @@
+C:/Users/lobo_/Desktop/Proyectos/C/QtC/build/CMakeFiles/Qtc.dir
+C:/Users/lobo_/Desktop/Proyectos/C/QtC/build/CMakeFiles/edit_cache.dir
+C:/Users/lobo_/Desktop/Proyectos/C/QtC/build/CMakeFiles/rebuild_cache.dir
+C:/Users/lobo_/Desktop/Proyectos/C/QtC/build/CMakeFiles/Qtc_autogen.dir

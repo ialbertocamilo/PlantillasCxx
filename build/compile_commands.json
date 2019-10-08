@@ -1,0 +1,19 @@
+[
+{
+  "directory": "C:/Users/lobo_/Desktop/Proyectos/C/QtC/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1422~1.279\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I. -I..\\ -IQtc_autogen\\include -IC:\\Qt\\5.13.1\\msvc2017_64\\include -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtWidgets -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtGui -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtANGLE -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtCore -IC:\\Qt\\5.13.1\\msvc2017_64\\.\\mkspecs\\win32-msvc  /MD /O2 /Ob2 /DNDEBUG   -m64 /FoCMakeFiles\\Qtc.dir\\Qtc_autogen\\mocs_compilation.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\lobo_\\Desktop\\Proyectos\\C\\QtC\\build\\Qtc_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/lobo_/Desktop/Proyectos/C/QtC/build/Qtc_autogen/mocs_compilation.cpp"
+},
+
+{
+  "directory": "C:/Users/lobo_/Desktop/Proyectos/C/QtC/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1422~1.279\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I. -I..\\ -IQtc_autogen\\include -IC:\\Qt\\5.13.1\\msvc2017_64\\include -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtWidgets -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtGui -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtANGLE -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtCore -IC:\\Qt\\5.13.1\\msvc2017_64\\.\\mkspecs\\win32-msvc  /MD /O2 /Ob2 /DNDEBUG   -m64 /FoCMakeFiles\\Qtc.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\lobo_\\Desktop\\Proyectos\\C\\QtC\\main.cpp",
+  "file": "C:/Users/lobo_/Desktop/Proyectos/C/QtC/main.cpp"
+},
+
+{
+  "directory": "C:/Users/lobo_/Desktop/Proyectos/C/QtC/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1422~1.279\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I. -I..\\ -IQtc_autogen\\include -IC:\\Qt\\5.13.1\\msvc2017_64\\include -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtWidgets -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtGui -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtANGLE -IC:\\Qt\\5.13.1\\msvc2017_64\\include\\QtCore -IC:\\Qt\\5.13.1\\msvc2017_64\\.\\mkspecs\\win32-msvc  /MD /O2 /Ob2 /DNDEBUG   -m64 /FoCMakeFiles\\Qtc.dir\\mainwindow.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\lobo_\\Desktop\\Proyectos\\C\\QtC\\mainwindow.cpp",
+  "file": "C:/Users/lobo_/Desktop/Proyectos/C/QtC/mainwindow.cpp"
+}
+]
